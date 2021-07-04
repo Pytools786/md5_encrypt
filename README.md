@@ -8,7 +8,7 @@ https://user-images.githubusercontent.com/77258429/124374929-c6129100-dcbc-11eb-
 how to run this program :
 
 1) for this you just need to install python3 on your system.
-2) download or clone the python file form here https://github.com/Pytools786/md5_encrypt
+2) download or clone the python file form here https://github.com/Pytools786/network_security_/blob/main/md5_encrypt.py
 3) navigate to the path of python file and type command python3 md5_encrypt.py
 
 
@@ -21,7 +21,7 @@ how to run this program :
 https://user-images.githubusercontent.com/77258429/124376402-7df76c80-dcc4-11eb-907c-29564941dc60.mp4
 
 1) for this you just need to install python3 on your system.
-2) download or clone the python file form here how to run this program : https://github.com/Pytools786/md5_encrypt/blob/main/hash_encrypter.py
+2) download or clone the python file form here how to run this program : https://github.com/Pytools786/network_security_/blob/main/hash_encrypter.py
 3) navigate to the path of python file and type command python3 md5_encrypt.py
 
 
