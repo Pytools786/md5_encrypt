@@ -9,5 +9,5 @@ how to run this program :
 
 1) for this you just need to install python3 on your system.
 2) download or clone the python file form here https://github.com/Pytools786/md5_encrypt
-and navigate to the path of python file and type command python3 <filename.py>
+3) navigate to the path of python file and type command python3 md5_encrypt.py
 
